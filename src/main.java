@@ -3,7 +3,11 @@ public class main {
 
 	public static void main(String[] args) {
 		System.out.println("Hola");
-		System.out.println("Indica tu nombre");
+		System.out.println("Indica tu nombre");		
+		System.out.println("Indica tu edad");
+		System.out.println("Indica tu fecha de nacimiento");
+
+
 
 	}
 
